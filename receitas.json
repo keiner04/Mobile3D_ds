@@ -11,7 +11,7 @@
  "Acrescente o cacau e o corante vermelho.", "Coloque a farinha e o sal, misturando até ficar homogêneo.",
  "Em um copo, misture o vinagre com o bicarbonato e adicione à massa.", "Despeje em uma forma untada.",
  "Asse em forno 180°C por 35–40 minutos."]},
- "videoUrl": "https://raw.-github.com/keiner04/Mobile3D_ds/blob/main/videos/laranja.mp4?raw=true" },
+ "videoUrl": "https://github.com/keiner04/Mobile3D_ds/blob/main/videos/red_velvet.mp4?raw=true" },
 
  { "id": "6", "nome": "Bolo de Aipim", "img": "bolo_aipim.png", "ingredientes":{"Massa": ["1 kg de aipim (mandioca) ralado",
   "3 ovos", "2 xícaras de açúcar", "200 ml de leite de coco", "2 colheres (sopa) de manteiga", "1 pitada de sal",    
@@ -21,7 +21,7 @@
   "Em uma tigela, misture os ovos, açúcar e manteiga.", "Adicione o leite de coco e misture bem.",
   "Acrescente o aipim ralado e o coco (se quiser).", "Misture tudo até ficar homogêneo.", "Despeje em uma forma untada.",
   "Leve ao forno pré-aquecido a 180°C por cerca de 40 a 50 minutos.", "Espere esfriar um pouco e sirva 😋."]},
-  "videoUrl": "https://raw.-github.com/keiner04/Mobile3D_ds/blob/main/videos/laranja.mp4?raw=true"},
+  "videoUrl": "https://github.com/keiner04/Mobile3D_ds/blob/main/videos/bolo-de-aipim.mp4?raw=true"},
 
   { "id": "7", "nome": "Bolo de Maracujá", "img": "bolo_maracuja.png", "ingredientes":{"Massa": ["3 ovos", "1 xícara de açúcar",
    "1/2 xícara de óleo", "1 xícara de suco de maracujá (natural ou concentrado)", "2 xícaras de farinha de trigo",
@@ -32,5 +32,5 @@
     "Por último, adicione o fermento e mexa delicadamente.", "Coloque a massa em uma forma untada e enfarinhada.",
     "Leve ao forno por cerca de 35 a 40 minutos.", "Faça o teste do palito: se sair limpo, está pronto."],
     "Calda":["(opcional)Calda de Maracujá: 1/2 xícara de suco de maracujá 1/2 xícara de açúcar"]},
-   "videoUrl": "https://raw.-github.com/keiner04/Mobile3D_ds/blob/main/videos/laranja.mp4?raw=true" }
+   "videoUrl": "https://github.com/keiner04/Mobile3D_ds/blob/main/videos/bolo-de-maracuja.mp4?raw=true" }
 ]
